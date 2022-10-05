@@ -8,6 +8,6 @@ import owner.Owner;
 
 public class App {
     public static void main(String[] args) {
-        System.out.printf("Adam!\n");
+        System.out.printf("Adam!!\n");
     }
 }
